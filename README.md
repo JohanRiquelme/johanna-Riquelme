@@ -53,8 +53,8 @@ The project focuses on taking a raw, messy enterprise dataset, cleaning and engi
 
 
 ### MODEL PERFORMANCE COMPARISON 
-Linear Regression  -> R²:  0.9742 | MSE:  3.1586
-Polynomial (Deg 2) -> R²: -0.9681 | MSE: 240.9081
+- Linear Regression  -> R²:  0.9742 | MSE:  3.1586
+- Polynomial (Deg 2) -> R²: -0.9681 | MSE: 240.9081
 
 
 ---
