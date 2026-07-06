@@ -19,7 +19,7 @@ The project focuses on taking a raw, messy enterprise dataset, cleaning and engi
 ## 🛠️ Tech Stack & Python Libraries Used
 - **Data Manipulation:** `pandas`, `numpy`
 - **Exploratory Data Analysis (EDA) & Visualization:** `matplotlib`, `seaborn`
-- **Predictive Modeling & Scikit-Learn:** `scikit-learn` (Logistic Regression, Decision Trees, Train/Test Split, Metrics)
+- **Predictive Modeling & Scikit-Learn:** `scikit-learn` (Linear regression and Polynomial Regression, Train/Test Split, Metrics)
 - **Data Preprocessing:** `StandardScaler`, `OneHotEncoder`
 
 ---
