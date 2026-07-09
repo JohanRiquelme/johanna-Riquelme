@@ -58,4 +58,4 @@ The project focuses on taking a raw, messy enterprise dataset, cleaning and engi
 
 
 ---
-📧 **Contact:** Johanna.oleo@gmail.com | [LinkedIn](https://linkedin.com)
+📧 **Contact:** Johanna.oleo@gmail.com | [LinkedIn](https://www.linkedin.com/in/johannariquelme/)
